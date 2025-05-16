@@ -31,7 +31,7 @@ System.out.println(" Please enter the third decimal number you would like to add
     double sumInt = num1 + num2 + num3;
     double sumDouble = dub1 + dub2 + dub3;
 
-       System.out.println(" The sum of " + num1 + " + " + num2 + " + " + num3 + " = " + sumInt);
+       System.out.println(" The sum of " + num1 + " +  " + num2 + " + " + num3 + " = " + sumInt);
        System.out.println(" The sum of " + dub1 + " + " + dub2 + " + " + dub3 + " = " + sumDouble);
 
 
